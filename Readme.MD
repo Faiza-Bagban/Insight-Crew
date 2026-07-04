@@ -38,8 +38,8 @@ Three agents collaborate in a **sequential pipeline**:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/insight-crew
-cd insight-crew
+git clone https://github.com/Faiza-Bagban/Insight-Crew.git
+cd Insight-crew
 
 # 2. Create virtual environment
 python -m venv venv
