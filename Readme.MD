@@ -102,4 +102,4 @@ Use this structure for maximum reach:
 
 ---
 
-*Made with ❤️ — Star ⭐ this repo if it helped you!*
+*Star ⭐ this repo if it helped you!*
