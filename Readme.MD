@@ -1,6 +1,8 @@
 
 #  InsightCrew — Multi-Agent Research & Content Engine
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)](https://insight-crew.streamlit.app/)
+
 > A  Agentic AI app that replaces hours of research with 3 autonomous AI agents working in sequence. Built 100% free and deployed publicly.
 
 ![InsightCrew Demo](https://img.shields.io/badge/Built%20With-CrewAI%20%7C%20Gemini%202.0%20%7C%20Tavily-blueviolet?style=for-the-badge)
